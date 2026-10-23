@@ -1,0 +1,9 @@
+{
+  "id": "commandcode-usage",
+  "name": "Command Code usage",
+  "description": "Plan usage for Command Code (GOAT, Pro, Max): the period line, the 5-hour and weekly windows, and the credit balances, read from the CLI's own billing API before it draws its /usage panel.",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.11.0"
+  }
+}
